@@ -1,0 +1,7 @@
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+<title>m2-theme</title>
+<parent>Magento/Luma</parent>
+<media>
+<preview_image>media/m2-theme-image.jpg</preview_image>
+</media>
+</theme>
